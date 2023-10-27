@@ -1,4 +1,3 @@
-# Python Project to scrape Youtube data using Youtube Data API(v3)
+# Projects on Hypothesis Testing, Data Analysis, Machine Learning, Deep Learning using Python
 
 
-# Skills : Python (pandas, seaborn), Data extraction from API, Data Analysis, Data Visualization
